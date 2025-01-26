@@ -60,13 +60,13 @@ projects/
 ├── 🏢 RAID Square/  
 │   ├── Role: Co-Founder  
 │   ├── Status: Active  
-│   ├── URL: https://raidsquare.com  
+│   ├── URL: <a href="https://raidsquare.com" target="_blank">https://raidsquare.com</a>  
 │   └── Description: French leader in cryptocurrency investigation & WEB3 cybersecurity consulting  
 │  
 └── 🔐 PrismKey/  
     ├── Role: Creator  
     ├── Status: Active  
-    ├── URL: https://prismkey.io  
+    ├── URL: <a href="https://prismkey.io" target="_blank">https://prismkey.io</a>  
     └── Description: A zero-storage, zero-knowledge, accountless & web3 native password generation protocol  
 </pre>
 
