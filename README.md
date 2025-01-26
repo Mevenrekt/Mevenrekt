@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="right">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=samewinter.samewinter" alt="visitors"/>
 </div>
