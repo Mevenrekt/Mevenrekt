@@ -50,28 +50,18 @@ soft_skills.yml
 
 > $ ls projects/
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://raidsquare.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Co--Founder-RAID_Square-4B275F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=" alt="RAID Square"/>
-        </a>
-        <br/>
-        French leader in cryptocurrency investigation & WEB3 cybersecurity consulting.
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://prismkey.io/" target="_blank">
-          <img src="https://img.shields.io/badge/Creator-PrismKey-00C7B7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=" alt="PrismKey"/>
-        </a>
-        <br/>
-        A zero-storage, zero-knowledge, accountless & web3 native password generation protocol.
-      </td>
-    </tr>
-  </table>
-</div>
+projects/
+├── 🏢 RAID Square/
+│   ├── Role: Co-Founder
+│   ├── Status: Active
+│   ├── URL: https://raidsquare.com
+│   └── Description: French leader in cryptocurrency investigation & WEB3 cybersecurity consulting
+│
+└── 🔐 PrismKey/
+    ├── Role: Creator
+    ├── Status: Active
+    ├── URL: https://prismkey.io
+    └── Description: A zero-storage, zero-knowledge, accountless & web3 native password generation protocol
 
 > $ exit  
 
