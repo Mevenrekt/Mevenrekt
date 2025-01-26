@@ -2,9 +2,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=samewinter.samewinter" alt="visitors"/>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Starting+terminal+session...;Loading+profile...;Access+granted." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&left=true&vCenter=true&width=435&lines=Starting+terminal+session...;Loading+profile...;Access+granted." alt="Typing SVG" />
   </a>
 </div>
 
