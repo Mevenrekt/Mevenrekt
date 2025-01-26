@@ -24,6 +24,7 @@
 [ ] Led High-Stakes Investigations for Private Clients, Law Enforcement & Blue-Chip Companies  
 [ ] Securing & Optimizing Web3 Infrastructures - Protecting Billions in Digital Assets  
 
+
 > $ ls skills/
 
 hard_skills.yml  
@@ -41,6 +42,7 @@ Soft_skills.yml
 ├── 🔄 Adaptability  
 ├── 👥 Teamwork and collaboration  
 └── 💬 Communication skills  
+
 
 > $ exit  
 > Connection closed. Have a great day! 👋  
