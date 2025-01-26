@@ -26,7 +26,7 @@
 
 > $ ls skills/
 
-# hard_skills.yml  
+hard_skills.yml  
 ├── 🔐 Cybersecurity (audits & optimization)  
 ├── ⛓️ Blockchain & protocol architecture  
 ├── 💻 Dev (python, solidity, typescript, etc)  
@@ -34,7 +34,7 @@
 ├── 🔍 BLOCKINT; OSINT & HUMINT  
 └── 📋 Due Diligence  
 
-# soft_skills.yml  
+Soft_skills.yml  
 ├── 🎯 Taste for challenge  
 ├── 🔄 Analytical spirit  
 ├── ⚡ Problem-solving  
