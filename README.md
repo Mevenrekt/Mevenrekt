@@ -2,7 +2,12 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=samewinter.samewinter" alt="visitors"/>
 </div>
 
-> # Starting terminal session...
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Starting+terminal+session...;Loading+profile...;Access+granted." alt="Typing SVG" />
+  </a>
+</div>
+
 > $ whoami
 
 <pre style="user-select: none;">
@@ -15,6 +20,7 @@
 ░  ░      ░ ░ ░  ░   ░ ░░   ░ ░  ░░ ░░   ░ ▒░  ░▒ ░ ▒░ ░ ░  ░░ ░▒ ▒░    ░
 ░      ░      ░        ░░     ░      ░   ░ ░   ░░   ░    ░   ░ ░░ ░   ░
       ░      ░  ░      ░     ░  ░         ░    ░        ░  ░░  ░
+                      ░
 </pre>
 
 > $ cat about.txt
@@ -24,10 +30,9 @@
 [ ] Led High-Stakes Investigations for Private Clients, Law Enforcement & Blue-Chip Companies  
 [ ] Securing & Optimizing Web3 Infrastructures - Protecting Billions in Digital Assets  
 
-
 > $ ls skills/
 
-hard_skills.yml  
+# hard_skills.yml  
 ├── 🔐 Cybersecurity (audits & optimization)  
 ├── ⛓️ Blockchain & protocol architecture  
 ├── 💻 Dev (python, solidity, typescript, etc)  
@@ -35,14 +40,13 @@ hard_skills.yml
 ├── 🔍 BLOCKINT; OSINT & HUMINT  
 └── 📋 Due Diligence  
 
-Soft_skills.yml  
+# soft_skills.yml  
 ├── 🎯 Taste for challenge  
 ├── 🔄 Analytical spirit  
 ├── ⚡ Problem-solving  
 ├── 🔄 Adaptability  
 ├── 👥 Teamwork and collaboration  
 └── 💬 Communication skills  
-
 
 > $ exit  
 > Connection closed. Have a great day! 👋  
