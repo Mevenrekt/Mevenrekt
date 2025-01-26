@@ -2,12 +2,9 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=samewinter.samewinter" alt="visitors"/>
 </div>
 
-```bash
-# Starting terminal session...
-$ whoami
-```
+> # Starting terminal session...
+> $ whoami
 
-```
 ███▄ ▄███▓▓█████  ██▒   █▓▓█████  ███▄    █  ██▀███  ▓█████  ██ ▄█▀▄▄▄█████▓
 ▓██▒▀█▀ ██▒▓█   ▀ ▓██░   █▒▓█   ▀  ██ ▀█   █ ▓██ ▒ ██▒▓█   ▀  ██▄█▒ ▓  ██▒ ▓▒
 ▓██    ▓██░▒███    ▓██  █▒░▒███   ▓██  ▀█ ██▒▓██ ░▄█ ▒▒███   ▓███▄░ ▒ ▓██░ ▒░
@@ -18,22 +15,16 @@ $ whoami
 ░      ░      ░        ░░     ░      ░   ░ ░   ░░   ░    ░   ░ ░░ ░   ░     
       ░      ░  ░      ░     ░  ░         ░    ░        ░  ░░  ░           
                       ░                                                      
-```
 
-```bash
-$ cat about.txt
-```
-```yaml
+> $ cat about.txt
+
 [*] Web3 Security Expert & Business Intelligence Specialist
 [*] Architect of High-Impact Solutions in DeFi, RWA & Betting – 4 Exits & $5M+ raised (support)
 [*] Led High-Stakes Investigations for Private Clients, Law Enforcement & Blue-Chip Companies
 [*] Securing & Optimizing Web3 Infrastructures - Protecting Billions in Digital Assets
-```
 
-```bash
-$ ls skills/
-```
-```yaml
+> $ ls skills/
+
 # hard_skills.yml
 ├── 🔐 Cybersecurity (audits & optimization)
 ├── ⛓️ Blockchain & protocol architecture
@@ -49,8 +40,6 @@ $ ls skills/
 ├── 🔄 Adaptability
 ├── 👥 Teamwork and collaboration
 └── 💬 Communication skills
-```
 
-```bash
-$ exit
-Connection closed. Have a great day! 👋
+> $ exit
+> Connection closed. Have a great day! 👋
