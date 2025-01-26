@@ -50,18 +50,20 @@ soft_skills.yml
 
 > $ ls projects/
 
-projects/
-├── 🏢 RAID Square/
-│   ├── Role: Co-Founder
-│   ├── Status: Active
-│   ├── URL: https://raidsquare.com
-│   └── Description: French leader in cryptocurrency investigation & WEB3 cybersecurity consulting
-│
-└── 🔐 PrismKey/
-    ├── Role: Creator
-    ├── Status: Active
-    ├── URL: https://prismkey.io
-    └── Description: A zero-storage, zero-knowledge, accountless & web3 native password generation protocol
+<pre>
+projects/  
+├── 🏢 RAID Square/  
+│   ├── Role: Co-Founder  
+│   ├── Status: Active  
+│   ├── URL: https://raidsquare.com  
+│   └── Description: French leader in cryptocurrency investigation & WEB3 cybersecurity consulting  
+│  
+└── 🔐 PrismKey/  
+    ├── Role: Creator  
+    ├── Status: Active  
+    ├── URL: https://prismkey.io  
+    └── Description: A zero-storage, zero-knowledge, accountless & web3 native password generation protocol  
+</pre>
 
 > $ exit  
 
