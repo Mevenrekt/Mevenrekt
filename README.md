@@ -48,5 +48,6 @@ soft_skills.yml
 ├── 👥 Teamwork and collaboration  
 └── 💬 Communication skills  
 
-> $ exit
+> $ exit  
+
 Connection closed. Have a great day! 👋  
