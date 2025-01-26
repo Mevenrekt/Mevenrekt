@@ -25,28 +25,33 @@
 
 > $ cat about.txt
 
+<pre>
 [ ] Web3 Security Expert & Business Intelligence Specialist  
 [ ] Architect of High-Impact Solutions in DeFi, RWA & Betting – 4 Exits & $5M+ raised (support)  
 [ ] Led High-Stakes Investigations for Private Clients, Law Enforcement & Blue-Chip Companies  
 [ ] Securing & Optimizing Web3 Infrastructures - Protecting Billions in Digital Assets  
+</pre>
 
 > $ ls skills/
 
-hard_skills.yml  
-├── 🔐 Cybersecurity (audits & optimization)  
-├── ⛓️ Blockchain & protocol architecture  
-├── 💻 Dev (python, solidity, typescript, etc)  
-├── 📊 Business Intelligence  
-├── 🔍 BLOCKINT; OSINT & HUMINT  
-└── 📋 Due Diligence  
-
-soft_skills.yml  
-├── 🎯 Taste for challenge  
-├── 🔄 Analytical spirit  
-├── ⚡ Problem-solving  
-├── 🔄 Adaptability  
-├── 👥 Teamwork and collaboration  
-└── 💬 Communication skills  
+<pre>
+skills/  
+├── hard_skills.yml  
+│   ├── 🔐 Cybersecurity (audits & optimization)  
+│   ├── ⛓️ Blockchain & protocol architecture  
+│   ├── 💻 Dev (python, solidity, typescript, etc)  
+│   ├── 📊 Business Intelligence  
+│   ├── 🔍 BLOCKINT; OSINT & HUMINT  
+│   └── 📋 Due Diligence  
+│  
+└── soft_skills.yml  
+    ├── 🎯 Taste for challenge  
+    ├── 🔄 Analytical spirit  
+    ├── ⚡ Problem-solving  
+    ├── 🔄 Adaptability  
+    ├── 👥 Teamwork and collaboration  
+    └── 💬 Communication skills  
+</pre>
 
 > $ ls projects/
 
