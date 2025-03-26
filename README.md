@@ -28,7 +28,7 @@
 [*] Web3 Security Expert & Business Intelligence Specialist  
 [*] Architect of High-Impact Solutions in DeFi, RWA & Betting – 4 Exits & $5M+ raised (support)  
 [*] Led High-Stakes Investigations for Private Clients, Law Enforcement & Blue-Chip Companies  
-[*] Securing & Optimizing Web3 Infrastructures - Protecting Billions in Digital Assets  
+[*] Securing & Optimizing Web3 Infrastructures - Protecting Millions in Digital Assets  
 </pre>
 
 > $ ls skills/
