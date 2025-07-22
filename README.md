@@ -70,9 +70,3 @@ projects/
 </pre>
 
 > $ exit  
-
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&left=true&vCenter=true&width=435&lines=Connection+closed...;Have+a+great+day!+👋" alt="Typing SVG" />
-  </a>
-</div>  
