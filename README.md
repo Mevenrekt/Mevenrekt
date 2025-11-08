@@ -27,7 +27,7 @@
 <pre>
 [*] Web3 security expert & Business Intelligence specialist
 [*] Architect of tools in Privacy, DeFi, RWA & betting – x2 sold ; x2 exits
-[*] Led +200 high-stakes investigations for private clients, law enforcement & blue-chip companies
+[*] Led +300 high-stakes investigations for private clients, law enforcement & blue-chip companies
 [*] Securing & optimizing Web3 infrastructures ; protecting billions in digital assets
 </pre>
 
