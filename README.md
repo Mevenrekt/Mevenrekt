@@ -27,7 +27,7 @@
 <pre>
 [*] Entrepreneur in cybersecurity and strategic data systems
 [*] Architect of tools in Privacy, DeFi, RWA & betting – x2 sold ; x2 exits
-[*] Former investigator: +300 high-stakes investigations for private clients, law enforcement & blue-chip companies
+[*] Former investigator: +300 high-stakes investigations for private clients, blue-chip companies & law enforcement
 [*] Privacy and sovereignty advocate
 </pre>
 
