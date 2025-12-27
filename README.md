@@ -56,11 +56,11 @@ skills/
 
 <pre>
 projects/  
-├── 🏢 RAID Square/  
-│   ├── Role: Co-Founder  
+├── ❇️ DataPrism/  
+│   ├── Role: Founder  
 │   ├── Status: Active  
-│   ├── URL: <a href="https://raidsquare.com" target="_blank">https://raidsquare.com</a>  
-│   └── Description: French leader in cryptocurrency investigation & WEB3 cybersecurity consulting  
+│   ├── URL: <a href="https://dataprism.com" target="_blank">https://dataprism.com</a>  
+│   └── Description: The missing layer for secure data.  
 │  
 └── 🔐 PrismKey/  
     ├── Role: Creator  
