@@ -25,10 +25,10 @@
 > $ cat about.txt
 
 <pre>
-[*] Entrepreneur in cybersecurity and strategic data systems.
+[*] Entrepreneur in cybersecurity and strategic data systems
 [*] Architect of tools in Privacy, DeFi, RWA & betting – x2 sold ; x2 exits
 [*] Former investigator: led +300 high-stakes investigations for private clients, law enforcement & blue-chip companies
-[*] Privacy and sovereignty advocate.
+[*] Privacy and sovereignty advocate
 </pre>
 
 > $ ls skills/
