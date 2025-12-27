@@ -25,10 +25,10 @@
 > $ cat about.txt
 
 <pre>
-[*] Web3 security expert & Business Intelligence specialist
+[*] Entrepreneur in cybersecurity and strategic data systems.
 [*] Architect of tools in Privacy, DeFi, RWA & betting – x2 sold ; x2 exits
-[*] Led +300 high-stakes investigations for private clients, law enforcement & blue-chip companies
-[*] Securing & optimizing Web3 infrastructures ; protecting billions in digital assets
+[*] Former investigator: led +300 high-stakes investigations for private clients, law enforcement & blue-chip companies
+[*] Privacy and sovereignty advocate.
 </pre>
 
 > $ ls skills/
@@ -36,20 +36,19 @@
 <pre>
 skills/  
 ├── hard_skills.yml  
-│   ├── 🔐 Cybersecurity (audits & optimization)  
+│   ├── 🔐 Cybersecurity 
 │   ├── ⛓️ Blockchain & protocol architecture  
-│   ├── 💻 Dev (python, solidity, typescript, etc)  
+│   ├── 💻 Dev  
 │   ├── 📊 Business Intelligence  
 │   ├── 🔍 BLOCKINT; OSINT & HUMINT  
 │   └── 📋 Due Diligence  
 │  
 └── soft_skills.yml  
     ├── 🎯 Taste for challenge  
-    ├── 🔄 Analytical spirit  
+    ├── ♟️ Analytical spirit  
     ├── ⚡ Problem-solving  
     ├── 🔄 Adaptability  
-    ├── 👥 Teamwork and collaboration  
-    └── 💬 Communication skills  
+    └── 👥 Teamwork and collaboration   
 </pre>
 
 > $ ls projects/
