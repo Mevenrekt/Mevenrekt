@@ -56,10 +56,10 @@ projects/
 │   ├── URL: <a href="https://dataprism.com" target="_blank">https://dataprism.com</a>  
 │   └── Description: The missing layer for secure data.  
 │  
-└── 🔐 PrismKey/  
+└── 🔐 Keptex/  
     ├── Role: Creator  
     ├── Status: Active  
-    ├── URL: <a href="https://prismkey.io" target="_blank">https://prismkey.io</a>  
+    ├── URL: <a href="https://prismkey.io" target="_blank">https://ketpex.com</a>  
     └── Description: A zero-storage, zero-knowledge, accountless & web3 native password generation protocol  
 </pre>
 
