@@ -33,7 +33,7 @@ projects/
 ├── 🟩 DataPrism/  
 │   ├── Role: Founder  
 │   ├── Status: Active  
-│   ├── URL: <a href="https://dataprism.com" target="_blank">https://dataprism.com</a>  
+│   ├── URL: <a href="https://dataprism.co" target="_blank">https://dataprism.co</a>  
 │   └── Description: The missing layer for secure data.  
 │  
 └── 🟦 Keptex/  
