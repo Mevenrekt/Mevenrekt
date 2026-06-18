@@ -26,26 +26,6 @@
 [*] Privacy and sovereignty advocate
 </pre>
 
-> $ ls skills/
-
-<pre>
-skills/  
-├── hard_skills.yml  
-│   ├── 🔐 Cybersecurity 
-│   ├── ⛓️ Blockchain & protocol architecture  
-│   ├── 💻 Dev  
-│   ├── 📊 Business Intelligence  
-│   ├── 🔍 BLOCKINT; OSINT & HUMINT  
-│   └── 📋 Due Diligence  
-│  
-└── soft_skills.yml  
-    ├── 🎯 Taste for challenge  
-    ├── ♟️ Analytical spirit  
-    ├── ⚡ Problem-solving  
-    ├── 🔄 Adaptability  
-    └── 👥 Teamwork and collaboration   
-</pre>
-
 > $ ls projects/
 
 <pre>
@@ -61,6 +41,25 @@ projects/
     ├── Status: Active  
     ├── URL: <a href="https://prismkey.io" target="_blank">https://ketpex.com</a>  
     └── Description: A zero-storage, zero-knowledge, accountless & web3 native password generation protocol  
+</pre> 
+
+> $ ls skills/
+
+<pre>
+skills/  
+├── hard_skills.yml  
+│   ├── 🔐 Cybersecurity 
+│   ├── ⛓️ Protocol architecture  
+│   ├── 💻 Dev  
+│   ├── 📊 Business Intelligence  
+│   ├── 🔍 BLOCKINT; OSINT & HUMINT  
+│   └── 📋 Due Diligence  
+│  
+└── soft_skills.yml  
+    ├── 🎯 Taste for challenge  
+    ├── ♟️ Analytical spirit  
+    ├── ⚡ Problem-solving    
+    └── 🔄 Adaptability   
 </pre>
 
-> $ exit  
+> $ exit 
