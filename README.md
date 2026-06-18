@@ -30,13 +30,13 @@
 
 <pre>
 projects/  
-├── ❇️ DataPrism/  
+├── 🟩 DataPrism/  
 │   ├── Role: Founder  
 │   ├── Status: Active  
 │   ├── URL: <a href="https://dataprism.com" target="_blank">https://dataprism.com</a>  
 │   └── Description: The missing layer for secure data.  
 │  
-└── 🔐 Keptex/  
+└── 🟦 Keptex/  
     ├── Role: Creator  
     ├── Status: Active  
     ├── URL: <a href="https://prismkey.io" target="_blank">https://ketpex.com</a>  
