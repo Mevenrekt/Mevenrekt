@@ -40,7 +40,7 @@ projects/
     ├── Role: Creator  
     ├── Status: Active  
     ├── URL: <a href="https://ketpex.com" target="_blank">https://ketpex.com</a>  
-    └── Description: A zero-storage, zero-knowledge, accountless & web3 native password generation protocol  
+    └── Description: A zero-storage, zero-knowledge, accountless & web3 native credential manager. 
 </pre> 
 
 > $ ls skills/
